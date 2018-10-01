@@ -1,0 +1,10 @@
+package main
+
+import (
+	"flag"
+	"fmt"
+	"io/ioutil"
+)
+
+func main() {
+	path := flag.String("f
